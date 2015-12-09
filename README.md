@@ -1,2 +1,2 @@
 # Myrepository
-This a good day!
+This is a good day!
